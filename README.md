@@ -17,4 +17,4 @@ chamado mostrarHabilidadeEspecial() para exibir
 a habilidade especial do ninja.
  3. Sobrescreva o método mostrarInformacoes() na 
 classe Uchiha para incluir também a habilidade 
-especia
+especial.
